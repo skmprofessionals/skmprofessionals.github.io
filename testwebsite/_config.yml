@@ -2,7 +2,7 @@
 title: SKM Professional Services
 email: info@skmprofessionals.nl
 description: > # omschrijving voor SKM Professional Services komt hier
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/testwebsite" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site
 
 
