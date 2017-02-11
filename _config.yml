@@ -20,7 +20,7 @@ countdown:
 owner:
   name: SKM Professional Services
   email: info-at-skmprofessionalservices.nl 
-  email-body: Attention:%20please%20remove%20"-at"%20from%20the%20e-mail%20address%20and%20replace%20it%20with%20"@" 
+  email-body: Attention:%20please%20remove%20%22-at%22%20from%20the%20e-mail%20address%20and%20replace%20it%20with%20%22@%22 
   twitter:
   google-plus:
   instagramm:
