@@ -66,7 +66,7 @@
                     <br> 
                     <ul class="list-unstyled list-inline">
                         {% if site.owner.email %}<li>
-                            <a href="mailto:{{ site.owner.email }}"><i class="fa fa-envelope"></i></a>
+                            <a href="mailto:{{ site.owner.email }}?body={{site.owner.email-body }}"><i class="fa fa-envelope"></i></a>
                         </li>{% endif %}
                         {% if site.owner.facebook %}<li>
                             <a href="http://facebook.com/{{ site.owner.facebook }}"><i class="fa fa-facebook"></i></a>

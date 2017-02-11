@@ -19,7 +19,8 @@ countdown:
 # Site owner
 owner:
   name: SKM Professional Services
-  email: info@skmprofessionalservices.nl 
+  email: info-at-skmprofessionalservices.nl 
+  email-body: Attention:%20please%20remove%20"-at"%20from%20the%20e-mail%20address%20and%20replace%20it%20with%20"@" 
   twitter:
   google-plus:
   instagramm:
